@@ -1,0 +1,141 @@
+{
+  "train": [
+    {
+      "qid": 9769,
+      "vid": "j7rJstUseKg_360.0_510.0",
+      "duration": 150,
+      "query": "some military patriots takes us through their safety procedures and measures.",
+      "relevant_windows": [
+        [
+          72,
+          82
+        ],
+        [
+          84,
+          94
+        ],
+        [
+          96,
+          106
+        ],
+        [
+          108,
+          118
+        ],
+        [
+          120,
+          130
+        ],
+        [
+          136,
+          142
+        ],
+        [
+          144,
+          146
+        ]
+      ]
+    },
+    {
+      "qid": 10016,
+      "vid": "j7rJstUseKg_210.0_360.0",
+      "duration": 150,
+      "query": "Man in baseball cap eats before doing his interview.",
+      "relevant_windows": [
+        [
+          96,
+          114
+        ]
+      ]
+    },
+    {
+      "qid": 10078,
+      "vid": "j7rJstUseKg_60.0_210.0",
+      "duration": 150,
+      "query": "A man in a white shirt discusses the right to have and carry firearms.",
+      "relevant_windows": [
+        [
+          48,
+          50
+        ],
+        [
+          76,
+          120
+        ],
+        [
+          122,
+          138
+        ],
+        [
+          140,
+          146
+        ]
+      ]
+    }
+  ],
+  "val": [
+    {
+      "qid": 2579,
+      "vid": "NUsG9BgSes0_210.0_360.0",
+      "duration": 150,
+      "query": "A girl and her mother cooked while talking with each other on facetime.",
+      "relevant_windows": [
+        [
+          82,
+          150
+        ]
+      ]
+    },
+    {
+      "qid": 5071,
+      "vid": "NUsG9BgSes0_60.0_210.0",
+      "duration": 150,
+      "query": "A woman sitting in front of a desk wearing headphones and using her laptop",
+      "relevant_windows": [
+        [
+          118,
+          136
+        ]
+      ]
+    },
+    {
+      "qid": 5342,
+      "vid": "NUsG9BgSes0_360.0_510.0",
+      "duration": 150,
+      "query": "An Asian woman wearing a Boston t-shirt is in her home talking.",
+      "relevant_windows": [
+        [
+          56,
+          76
+        ],
+        [
+          96,
+          150
+        ]
+      ]
+    }
+  ],
+  "test": [
+    {
+      "qid": 3158,
+      "vid": "_6hnl_BrFvs_360.0_510.0",
+      "duration": 150,
+      "query": "A video covering hill and water from a boat",
+      "relevant_windows": []
+    },
+    {
+      "qid": 7920,
+      "vid": "_6hnl_BrFvs_60.0_210.0",
+      "duration": 150,
+      "query": "Woman talks to the camera out the window of a car.",
+      "relevant_windows": []
+    },
+    {
+      "qid": 8039,
+      "vid": "_6hnl_BrFvs_210.0_360.0",
+      "duration": 150,
+      "query": "Vlogger walks around a large hotel pool.",
+      "relevant_windows": []
+    }
+  ]
+}

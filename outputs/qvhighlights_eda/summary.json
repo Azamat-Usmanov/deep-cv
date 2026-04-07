@@ -1,0 +1,209 @@
+{
+  "train": {
+    "split": "train",
+    "rows": 7218,
+    "unique_qids": 7218,
+    "unique_videos": 7100,
+    "duration_sec": {
+      "min": 120.0,
+      "p25": 150.0,
+      "median": 150.0,
+      "p75": 150.0,
+      "max": 150.0,
+      "mean": 149.54835134386258,
+      "total_hours": 299.84444444444443
+    },
+    "query_words": {
+      "min": 4.0,
+      "p25": 8.0,
+      "median": 10.0,
+      "p75": 13.0,
+      "max": 44.0,
+      "mean": 10.46231643114436
+    },
+    "windows_per_annotated_video": {
+      "min": 1.0,
+      "p25": 1.0,
+      "median": 1.0,
+      "p75": 2.0,
+      "max": 24.0,
+      "mean": 1.7737600443336103
+    },
+    "window_length_sec": {
+      "min": 2.0,
+      "p25": 6.0,
+      "median": 16.0,
+      "p75": 30.0,
+      "max": 150.0,
+      "mean": 25.083652268999455
+    },
+    "relevant_coverage_ratio": {
+      "min": 0.09333333333333334,
+      "p25": 0.14666666666666667,
+      "median": 0.2,
+      "p75": 0.3466666666666667,
+      "max": 1.0,
+      "mean": 0.29755912510492416
+    },
+    "relevant_clip_count": {
+      "min": 7.0,
+      "p25": 11.0,
+      "median": 15.0,
+      "p75": 26.0,
+      "max": 75.0,
+      "mean": 22.24619008035467
+    },
+    "saliency_score_distribution": {
+      "0": 15594,
+      "1": 34972,
+      "2": 88925,
+      "3": 147642,
+      "4": 194586
+    },
+    "annotator_spread": {
+      "min": 0.0,
+      "p25": 1.0,
+      "median": 1.0,
+      "p75": 2.0,
+      "max": 4.0,
+      "mean": 1.5366904772284258
+    },
+    "issue_count": 0
+  },
+  "val": {
+    "split": "val",
+    "rows": 1550,
+    "unique_qids": 1550,
+    "unique_videos": 1519,
+    "duration_sec": {
+      "min": 120.0,
+      "p25": 150.0,
+      "median": 150.0,
+      "p75": 150.0,
+      "max": 150.0,
+      "mean": 149.6167741935484,
+      "total_hours": 64.41833333333334
+    },
+    "query_words": {
+      "min": 4.0,
+      "p25": 7.0,
+      "median": 10.0,
+      "p75": 13.0,
+      "max": 45.0,
+      "mean": 10.492903225806451
+    },
+    "windows_per_annotated_video": {
+      "min": 1.0,
+      "p25": 1.0,
+      "median": 1.0,
+      "p75": 2.0,
+      "max": 25.0,
+      "mean": 1.8083870967741935
+    },
+    "window_length_sec": {
+      "min": 2.0,
+      "p25": 6.0,
+      "median": 16.0,
+      "p75": 28.0,
+      "max": 150.0,
+      "mean": 23.224402425972173
+    },
+    "relevant_coverage_ratio": {
+      "min": 0.09333333333333334,
+      "p25": 0.14666666666666667,
+      "median": 0.2,
+      "p75": 0.32,
+      "max": 1.0,
+      "mean": 0.2807738888982777
+    },
+    "relevant_clip_count": {
+      "min": 6.0,
+      "p25": 11.0,
+      "median": 15.0,
+      "p75": 24.0,
+      "max": 75.0,
+      "mean": 20.999354838709678
+    },
+    "saliency_score_distribution": {
+      "0": 3622,
+      "1": 7859,
+      "2": 18517,
+      "3": 29268,
+      "4": 38381
+    },
+    "annotator_spread": {
+      "min": 0.0,
+      "p25": 1.0,
+      "median": 1.0,
+      "p75": 2.0,
+      "max": 4.0,
+      "mean": 1.6112322959230698
+    },
+    "issue_count": 0
+  },
+  "test": {
+    "split": "test",
+    "rows": 1542,
+    "unique_qids": 1542,
+    "unique_videos": 1529,
+    "duration_sec": {
+      "min": 120.0,
+      "p25": 150.0,
+      "median": 150.0,
+      "p75": 150.0,
+      "max": 150.0,
+      "mean": 149.56549935149158,
+      "total_hours": 64.06388888888888
+    },
+    "query_words": {
+      "min": 4.0,
+      "p25": 8.0,
+      "median": 10.0,
+      "p75": 13.0,
+      "max": 33.0,
+      "mean": 10.509079118028534
+    },
+    "windows_per_annotated_video": {
+      "min": null,
+      "p25": null,
+      "median": null,
+      "p75": null,
+      "max": null,
+      "mean": null
+    },
+    "window_length_sec": {
+      "min": null,
+      "p25": null,
+      "median": null,
+      "p75": null,
+      "max": null,
+      "mean": null
+    },
+    "relevant_coverage_ratio": {
+      "min": null,
+      "p25": null,
+      "median": null,
+      "p75": null,
+      "max": null,
+      "mean": null
+    },
+    "relevant_clip_count": {
+      "min": null,
+      "p25": null,
+      "median": null,
+      "p75": null,
+      "max": null,
+      "mean": null
+    },
+    "saliency_score_distribution": {},
+    "annotator_spread": {
+      "min": null,
+      "p25": null,
+      "median": null,
+      "p75": null,
+      "max": null,
+      "mean": null
+    },
+    "issue_count": 0
+  }
+}

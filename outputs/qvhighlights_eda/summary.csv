@@ -1,0 +1,4 @@
+split,rows,unique_videos,total_hours,median_duration_sec,mean_windows,median_window_length_sec,mean_coverage_ratio,issue_count
+train,7218,7100,299.844444,150.0,1.7737600443336103,16.0,0.29755912510492416,0
+val,1550,1519,64.418333,150.0,1.8083870967741935,16.0,0.2807738888982777,0
+test,1542,1529,64.063889,150.0,,,,0
