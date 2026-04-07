@@ -2,13 +2,18 @@
 
 Артефакты для рубежного контроля:
 
-- `report/stage1_highlight_detection_report.pdf` - PDF-отчёт.
-- `notebooks/qvhighlights_eda.ipynb` - выполненный EDA notebook по QVHighlights.
-- `scripts/qvhighlights_eda.py` - воспроизводимый EDA-скрипт.
+- `stage1_highlight_detection_report.pdf` - PDF-отчёт.
+- `qvhighlights_eda.ipynb` - выполненный EDA notebook по QVHighlights.
+- `qvhighlights_eda.py` - воспроизводимый EDA-скрипт.
 - `outputs/qvhighlights_eda/` - таблицы, JSON summary и PNG-графики.
 - `data/qvhighlights/` - публичные JSONL-аннотации QVHighlights из репозитория Moment-DETR.
 - `requirements.txt` - Python-зависимости для воспроизведения в чистом окружении.
 
+Команды воспроизведения EDA:
+
+```bash
+python qvhighlights_eda.py --plots
+```
 
 Источник аннотаций QVHighlights:
 
