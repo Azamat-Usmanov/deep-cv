@@ -1,0 +1,3854 @@
+[
+  {
+    "qid": 41,
+    "vid": "E6yFTWlChmE_60.0_210.0",
+    "duration": 150.0,
+    "query": "Two men are playing in a professional ping pong match on a red court.",
+    "predicted_windows": [
+      [
+        0.0,
+        60.0
+      ],
+      [
+        62.0,
+        96.0
+      ],
+      [
+        102.0,
+        104.0
+      ],
+      [
+        114.0,
+        116.0
+      ],
+      [
+        118.0,
+        138.0
+      ],
+      [
+        140.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 0,
+        "start": 0.0,
+        "end": 2.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 1,
+        "start": 2.0,
+        "end": 4.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 2,
+        "start": 4.0,
+        "end": 6.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 3,
+        "start": 6.0,
+        "end": 8.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 4,
+        "start": 8.0,
+        "end": 10.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        12,
+        48
+      ]
+    ],
+    "mean_best_iou": 0.6
+  },
+  {
+    "qid": 66,
+    "vid": "IAbAn-MkMH8_360.0_510.0",
+    "duration": 150.0,
+    "query": "Graduates pose for the camera.",
+    "predicted_windows": [
+      [
+        2.0,
+        10.0
+      ],
+      [
+        12.0,
+        14.0
+      ],
+      [
+        22.0,
+        24.0
+      ],
+      [
+        30.0,
+        36.0
+      ],
+      [
+        42.0,
+        44.0
+      ],
+      [
+        56.0,
+        58.0
+      ],
+      [
+        60.0,
+        70.0
+      ],
+      [
+        78.0,
+        82.0
+      ],
+      [
+        86.0,
+        98.0
+      ],
+      [
+        100.0,
+        102.0
+      ],
+      [
+        104.0,
+        122.0
+      ],
+      [
+        124.0,
+        134.0
+      ],
+      [
+        138.0,
+        140.0
+      ],
+      [
+        142.0,
+        144.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 30,
+        "start": 60.0,
+        "end": 62.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 33,
+        "start": 66.0,
+        "end": 68.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 47,
+        "start": 94.0,
+        "end": 96.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 48,
+        "start": 96.0,
+        "end": 98.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 50,
+        "start": 100.0,
+        "end": 102.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        12,
+        18
+      ],
+      [
+        106,
+        116
+      ],
+      [
+        130,
+        134
+      ]
+    ],
+    "mean_best_iou": 0.42962962962962964
+  },
+  {
+    "qid": 76,
+    "vid": "E6yFTWlChmE_210.0_360.0",
+    "duration": 150.0,
+    "query": "Boys playing table tennis and filming",
+    "predicted_windows": [
+      [
+        0.0,
+        42.0
+      ],
+      [
+        44.0,
+        84.0
+      ],
+      [
+        86.0,
+        106.0
+      ],
+      [
+        108.0,
+        112.0
+      ],
+      [
+        116.0,
+        118.0
+      ],
+      [
+        120.0,
+        126.0
+      ],
+      [
+        134.0,
+        140.0
+      ],
+      [
+        144.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 0,
+        "start": 0.0,
+        "end": 2.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 1,
+        "start": 2.0,
+        "end": 4.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 2,
+        "start": 4.0,
+        "end": 6.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 4,
+        "start": 8.0,
+        "end": 10.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 5,
+        "start": 10.0,
+        "end": 12.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        48,
+        82
+      ],
+      [
+        84,
+        86
+      ]
+    ],
+    "mean_best_iou": 0.425
+  },
+  {
+    "qid": 158,
+    "vid": "xUeRLu1o0v4_360.0_510.0",
+    "duration": 150.0,
+    "query": "A fire is poked at before vegetables are put in it.",
+    "predicted_windows": [
+      [
+        6.0,
+        48.0
+      ],
+      [
+        50.0,
+        76.0
+      ],
+      [
+        80.0,
+        86.0
+      ],
+      [
+        88.0,
+        102.0
+      ],
+      [
+        106.0,
+        110.0
+      ],
+      [
+        114.0,
+        116.0
+      ],
+      [
+        118.0,
+        130.0
+      ],
+      [
+        136.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 9,
+        "start": 18.0,
+        "end": 20.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 13,
+        "start": 26.0,
+        "end": 28.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 17,
+        "start": 34.0,
+        "end": 36.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 63,
+        "start": 126.0,
+        "end": 128.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 64,
+        "start": 128.0,
+        "end": 130.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        24,
+        38
+      ]
+    ],
+    "mean_best_iou": 0.3333333333333333
+  },
+  {
+    "qid": 228,
+    "vid": "xUeRLu1o0v4_60.0_210.0",
+    "duration": 150.0,
+    "query": "Man saws trunks of bamboo.",
+    "predicted_windows": [
+      [
+        14.0,
+        18.0
+      ],
+      [
+        20.0,
+        26.0
+      ],
+      [
+        28.0,
+        32.0
+      ],
+      [
+        64.0,
+        66.0
+      ],
+      [
+        80.0,
+        106.0
+      ],
+      [
+        114.0,
+        120.0
+      ],
+      [
+        122.0,
+        124.0
+      ],
+      [
+        126.0,
+        134.0
+      ],
+      [
+        136.0,
+        142.0
+      ],
+      [
+        148.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 50,
+        "start": 100.0,
+        "end": 102.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 65,
+        "start": 130.0,
+        "end": 132.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 66,
+        "start": 132.0,
+        "end": 134.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 14,
+        "start": 28.0,
+        "end": 30.0,
+        "score": 0.9999999999999376
+      },
+      {
+        "clip_id": 47,
+        "start": 94.0,
+        "end": 96.0,
+        "score": 0.9999999999991265
+      }
+    ],
+    "gt_windows": [
+      [
+        88,
+        92
+      ],
+      [
+        94,
+        108
+      ],
+      [
+        120,
+        124
+      ]
+    ],
+    "mean_best_iou": 0.3608058608058608
+  },
+  {
+    "qid": 251,
+    "vid": "ObBiYbyai0Y_360.0_510.0",
+    "duration": 150.0,
+    "query": "Man is giving a press conference in between corporate logos.",
+    "predicted_windows": [
+      [
+        0.0,
+        4.0
+      ],
+      [
+        8.0,
+        14.0
+      ],
+      [
+        20.0,
+        22.0
+      ],
+      [
+        24.0,
+        34.0
+      ],
+      [
+        56.0,
+        70.0
+      ],
+      [
+        76.0,
+        80.0
+      ],
+      [
+        86.0,
+        92.0
+      ],
+      [
+        106.0,
+        112.0
+      ],
+      [
+        118.0,
+        120.0
+      ],
+      [
+        128.0,
+        130.0
+      ],
+      [
+        134.0,
+        136.0
+      ],
+      [
+        138.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 59,
+        "start": 118.0,
+        "end": 120.0,
+        "score": 0.9999999999999791
+      },
+      {
+        "clip_id": 72,
+        "start": 144.0,
+        "end": 146.0,
+        "score": 0.9999999997736424
+      },
+      {
+        "clip_id": 74,
+        "start": 148.0,
+        "end": 150.0,
+        "score": 0.9999999984484798
+      },
+      {
+        "clip_id": 73,
+        "start": 146.0,
+        "end": 148.0,
+        "score": 0.9999999918796657
+      },
+      {
+        "clip_id": 39,
+        "start": 78.0,
+        "end": 80.0,
+        "score": 0.9999998302950962
+      }
+    ],
+    "gt_windows": [
+      [
+        0,
+        4
+      ],
+      [
+        8,
+        18
+      ],
+      [
+        24,
+        34
+      ],
+      [
+        56,
+        68
+      ],
+      [
+        78,
+        82
+      ],
+      [
+        140,
+        150
+      ]
+    ],
+    "mean_best_iou": 0.7706349206349206
+  },
+  {
+    "qid": 255,
+    "vid": "geklhsKfw7I_60.0_210.0",
+    "duration": 150.0,
+    "query": "Girls having fun out side shop",
+    "predicted_windows": [
+      [
+        0.0,
+        2.0
+      ],
+      [
+        104.0,
+        110.0
+      ],
+      [
+        118.0,
+        122.0
+      ],
+      [
+        124.0,
+        130.0
+      ],
+      [
+        136.0,
+        140.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 64,
+        "start": 128.0,
+        "end": 130.0,
+        "score": 0.999999995829143
+      },
+      {
+        "clip_id": 52,
+        "start": 104.0,
+        "end": 106.0,
+        "score": 0.9999996288704823
+      },
+      {
+        "clip_id": 54,
+        "start": 108.0,
+        "end": 110.0,
+        "score": 0.9999981159980406
+      },
+      {
+        "clip_id": 68,
+        "start": 136.0,
+        "end": 138.0,
+        "score": 0.9999927452749169
+      },
+      {
+        "clip_id": 59,
+        "start": 118.0,
+        "end": 120.0,
+        "score": 0.9999445817786204
+      }
+    ],
+    "gt_windows": [
+      [
+        106,
+        130
+      ],
+      [
+        132,
+        136
+      ]
+    ],
+    "mean_best_iou": 0.125
+  },
+  {
+    "qid": 298,
+    "vid": "KQyJtq52Jcw_60.0_210.0",
+    "duration": 150.0,
+    "query": "Man reads a piece of paper to his kid.",
+    "predicted_windows": [
+      [
+        34.0,
+        38.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 18,
+        "start": 36.0,
+        "end": 38.0,
+        "score": 0.9968812531506007
+      },
+      {
+        "clip_id": 17,
+        "start": 34.0,
+        "end": 36.0,
+        "score": 0.4489010978827862
+      },
+      {
+        "clip_id": 65,
+        "start": 130.0,
+        "end": 132.0,
+        "score": 0.00013209919891333047
+      },
+      {
+        "clip_id": 6,
+        "start": 12.0,
+        "end": 14.0,
+        "score": 1.541297477514169e-05
+      },
+      {
+        "clip_id": 72,
+        "start": 144.0,
+        "end": 146.0,
+        "score": 9.126721989092276e-06
+      }
+    ],
+    "gt_windows": [
+      [
+        34,
+        48
+      ]
+    ],
+    "mean_best_iou": 0.2857142857142857
+  },
+  {
+    "qid": 342,
+    "vid": "A_MFAuOwK5k_360.0_510.0",
+    "duration": 150.0,
+    "query": "Man turns the machine to make spaghetti.",
+    "predicted_windows": [
+      [
+        18.0,
+        20.0
+      ],
+      [
+        22.0,
+        38.0
+      ],
+      [
+        44.0,
+        46.0
+      ],
+      [
+        48.0,
+        50.0
+      ],
+      [
+        86.0,
+        88.0
+      ],
+      [
+        90.0,
+        92.0
+      ],
+      [
+        94.0,
+        98.0
+      ],
+      [
+        106.0,
+        108.0
+      ],
+      [
+        110.0,
+        112.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 14,
+        "start": 28.0,
+        "end": 30.0,
+        "score": 0.9999999999750957
+      },
+      {
+        "clip_id": 9,
+        "start": 18.0,
+        "end": 20.0,
+        "score": 0.9999999996730395
+      },
+      {
+        "clip_id": 11,
+        "start": 22.0,
+        "end": 24.0,
+        "score": 0.99999999409079
+      },
+      {
+        "clip_id": 43,
+        "start": 86.0,
+        "end": 88.0,
+        "score": 0.9999997760881105
+      },
+      {
+        "clip_id": 13,
+        "start": 26.0,
+        "end": 28.0,
+        "score": 0.9999598638259304
+      }
+    ],
+    "gt_windows": [
+      [
+        16,
+        36
+      ]
+    ],
+    "mean_best_iou": 0.6363636363636364
+  },
+  {
+    "qid": 525,
+    "vid": "XpVt6Z1Gjjo_360.0_510.0",
+    "duration": 150.0,
+    "query": "Two men are looking at tools in Home Depot.",
+    "predicted_windows": [
+      [
+        104.0,
+        126.0
+      ],
+      [
+        128.0,
+        134.0
+      ],
+      [
+        136.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 52,
+        "start": 104.0,
+        "end": 106.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 54,
+        "start": 108.0,
+        "end": 110.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 55,
+        "start": 110.0,
+        "end": 112.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 56,
+        "start": 112.0,
+        "end": 114.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 68,
+        "start": 136.0,
+        "end": 138.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        104,
+        150
+      ]
+    ],
+    "mean_best_iou": 0.4782608695652174
+  },
+  {
+    "qid": 538,
+    "vid": "x4kKIm8WWOA_210.0_360.0",
+    "duration": 150.0,
+    "query": "The vlogger is petting a lizard.",
+    "predicted_windows": [
+      [
+        4.0,
+        10.0
+      ],
+      [
+        38.0,
+        66.0
+      ],
+      [
+        70.0,
+        74.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 31,
+        "start": 62.0,
+        "end": 64.0,
+        "score": 0.9999999999996618
+      },
+      {
+        "clip_id": 32,
+        "start": 64.0,
+        "end": 66.0,
+        "score": 0.9999999999994051
+      },
+      {
+        "clip_id": 20,
+        "start": 40.0,
+        "end": 42.0,
+        "score": 0.9999999999532845
+      },
+      {
+        "clip_id": 22,
+        "start": 44.0,
+        "end": 46.0,
+        "score": 0.999999999892317
+      },
+      {
+        "clip_id": 21,
+        "start": 42.0,
+        "end": 44.0,
+        "score": 0.999999999870016
+      }
+    ],
+    "gt_windows": [
+      [
+        40,
+        76
+      ]
+    ],
+    "mean_best_iou": 0.6842105263157895
+  },
+  {
+    "qid": 548,
+    "vid": "lwNho_1tKrc_60.0_210.0",
+    "duration": 150.0,
+    "query": "Man in striped shirt is wearing a orange lei.",
+    "predicted_windows": [
+      [
+        4.0,
+        10.0
+      ],
+      [
+        12.0,
+        52.0
+      ],
+      [
+        54.0,
+        56.0
+      ],
+      [
+        58.0,
+        64.0
+      ],
+      [
+        70.0,
+        72.0
+      ],
+      [
+        78.0,
+        88.0
+      ],
+      [
+        90.0,
+        92.0
+      ],
+      [
+        94.0,
+        98.0
+      ],
+      [
+        102.0,
+        104.0
+      ],
+      [
+        116.0,
+        120.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 8,
+        "start": 16.0,
+        "end": 18.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 12,
+        "start": 24.0,
+        "end": 26.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 13,
+        "start": 26.0,
+        "end": 28.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 15,
+        "start": 30.0,
+        "end": 32.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 16,
+        "start": 32.0,
+        "end": 34.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        2,
+        28
+      ],
+      [
+        30,
+        48
+      ]
+    ],
+    "mean_best_iou": 0.385
+  },
+  {
+    "qid": 561,
+    "vid": "ObBiYbyai0Y_210.0_360.0",
+    "duration": 150.0,
+    "query": "A soccer play is giving a press conference in front of jeep and adidas logos.",
+    "predicted_windows": [
+      [
+        16.0,
+        18.0
+      ],
+      [
+        20.0,
+        24.0
+      ],
+      [
+        28.0,
+        32.0
+      ],
+      [
+        40.0,
+        46.0
+      ],
+      [
+        58.0,
+        64.0
+      ],
+      [
+        86.0,
+        88.0
+      ],
+      [
+        92.0,
+        98.0
+      ],
+      [
+        100.0,
+        102.0
+      ],
+      [
+        114.0,
+        124.0
+      ],
+      [
+        126.0,
+        128.0
+      ],
+      [
+        130.0,
+        132.0
+      ],
+      [
+        148.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 63,
+        "start": 126.0,
+        "end": 128.0,
+        "score": 0.9999999994402773
+      },
+      {
+        "clip_id": 11,
+        "start": 22.0,
+        "end": 24.0,
+        "score": 0.9999999991149766
+      },
+      {
+        "clip_id": 46,
+        "start": 92.0,
+        "end": 94.0,
+        "score": 0.9999999492995538
+      },
+      {
+        "clip_id": 48,
+        "start": 96.0,
+        "end": 98.0,
+        "score": 0.9999985985454988
+      },
+      {
+        "clip_id": 60,
+        "start": 120.0,
+        "end": 122.0,
+        "score": 0.9999982680590687
+      }
+    ],
+    "gt_windows": [
+      [
+        92,
+        102
+      ],
+      [
+        112,
+        124
+      ],
+      [
+        148,
+        150
+      ]
+    ],
+    "mean_best_iou": 0.8111111111111112
+  },
+  {
+    "qid": 601,
+    "vid": "pu5p_ojK6BI_360.0_510.0",
+    "duration": 150.0,
+    "query": "Man talks to the camera under candlelight.",
+    "predicted_windows": [
+      [
+        24.0,
+        28.0
+      ],
+      [
+        32.0,
+        80.0
+      ],
+      [
+        82.0,
+        96.0
+      ],
+      [
+        100.0,
+        102.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 27,
+        "start": 54.0,
+        "end": 56.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 28,
+        "start": 56.0,
+        "end": 58.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 30,
+        "start": 60.0,
+        "end": 62.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 33,
+        "start": 66.0,
+        "end": 68.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 34,
+        "start": 68.0,
+        "end": 70.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        54,
+        82
+      ]
+    ],
+    "mean_best_iou": 0.52
+  },
+  {
+    "qid": 635,
+    "vid": "xtaVwcSitCo_210.0_360.0",
+    "duration": 150.0,
+    "query": "Man and woman are wearing black jackets outside.",
+    "predicted_windows": [
+      [
+        8.0,
+        12.0
+      ],
+      [
+        14.0,
+        16.0
+      ],
+      [
+        32.0,
+        34.0
+      ],
+      [
+        36.0,
+        38.0
+      ],
+      [
+        42.0,
+        50.0
+      ],
+      [
+        64.0,
+        66.0
+      ],
+      [
+        76.0,
+        78.0
+      ],
+      [
+        90.0,
+        92.0
+      ],
+      [
+        94.0,
+        96.0
+      ],
+      [
+        98.0,
+        100.0
+      ],
+      [
+        102.0,
+        118.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 57,
+        "start": 114.0,
+        "end": 116.0,
+        "score": 0.9999999999998428
+      },
+      {
+        "clip_id": 53,
+        "start": 106.0,
+        "end": 108.0,
+        "score": 0.9999999999983975
+      },
+      {
+        "clip_id": 56,
+        "start": 112.0,
+        "end": 114.0,
+        "score": 0.9999999999976248
+      },
+      {
+        "clip_id": 45,
+        "start": 90.0,
+        "end": 92.0,
+        "score": 0.9999999999959914
+      },
+      {
+        "clip_id": 52,
+        "start": 104.0,
+        "end": 106.0,
+        "score": 0.9999999999948972
+      }
+    ],
+    "gt_windows": [
+      [
+        94,
+        96
+      ],
+      [
+        100,
+        108
+      ],
+      [
+        112,
+        120
+      ]
+    ],
+    "mean_best_iou": 0.5555555555555555
+  },
+  {
+    "qid": 721,
+    "vid": "yId2wIocTys_60.0_210.0",
+    "duration": 150.0,
+    "query": "Man walks away from white van.",
+    "predicted_windows": [
+      [
+        0.0,
+        8.0
+      ],
+      [
+        10.0,
+        12.0
+      ],
+      [
+        14.0,
+        32.0
+      ],
+      [
+        34.0,
+        36.0
+      ],
+      [
+        42.0,
+        46.0
+      ],
+      [
+        48.0,
+        50.0
+      ],
+      [
+        52.0,
+        102.0
+      ],
+      [
+        104.0,
+        112.0
+      ],
+      [
+        114.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 32,
+        "start": 64.0,
+        "end": 66.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 34,
+        "start": 68.0,
+        "end": 70.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 38,
+        "start": 76.0,
+        "end": 78.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 39,
+        "start": 78.0,
+        "end": 80.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 43,
+        "start": 86.0,
+        "end": 88.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        134,
+        148
+      ]
+    ],
+    "mean_best_iou": 0.3888888888888889
+  },
+  {
+    "qid": 759,
+    "vid": "NcRo-rLqXp4_60.0_210.0",
+    "duration": 150.0,
+    "query": "Woman wears a black mask in the hotel room.",
+    "predicted_windows": [
+      [
+        132.0,
+        140.0
+      ],
+      [
+        142.0,
+        146.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 66,
+        "start": 132.0,
+        "end": 134.0,
+        "score": 0.9999986691840801
+      },
+      {
+        "clip_id": 67,
+        "start": 134.0,
+        "end": 136.0,
+        "score": 0.9991535559820166
+      },
+      {
+        "clip_id": 68,
+        "start": 136.0,
+        "end": 138.0,
+        "score": 0.998097770001523
+      },
+      {
+        "clip_id": 69,
+        "start": 138.0,
+        "end": 140.0,
+        "score": 0.997512430327645
+      },
+      {
+        "clip_id": 71,
+        "start": 142.0,
+        "end": 144.0,
+        "score": 0.8578929762277511
+      }
+    ],
+    "gt_windows": [
+      [
+        130,
+        144
+      ]
+    ],
+    "mean_best_iou": 0.5714285714285714
+  },
+  {
+    "qid": 781,
+    "vid": "nY42UppPhhg_60.0_210.0",
+    "duration": 150.0,
+    "query": "Man talks to the camera while fiddling with his mask.",
+    "predicted_windows": [
+      [
+        6.0,
+        20.0
+      ],
+      [
+        26.0,
+        34.0
+      ],
+      [
+        36.0,
+        46.0
+      ],
+      [
+        64.0,
+        66.0
+      ],
+      [
+        70.0,
+        86.0
+      ],
+      [
+        90.0,
+        96.0
+      ],
+      [
+        102.0,
+        104.0
+      ],
+      [
+        106.0,
+        110.0
+      ],
+      [
+        124.0,
+        142.0
+      ],
+      [
+        146.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 3,
+        "start": 6.0,
+        "end": 8.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 8,
+        "start": 16.0,
+        "end": 18.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 15,
+        "start": 30.0,
+        "end": 32.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 35,
+        "start": 70.0,
+        "end": 72.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 36,
+        "start": 72.0,
+        "end": 74.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        6,
+        20
+      ]
+    ],
+    "mean_best_iou": 1.0
+  },
+  {
+    "qid": 840,
+    "vid": "gpDpN44mky0_60.0_210.0",
+    "duration": 150.0,
+    "query": "Vlogger gives a tour of their bedroom.",
+    "predicted_windows": [
+      [
+        26.0,
+        30.0
+      ],
+      [
+        48.0,
+        50.0
+      ],
+      [
+        52.0,
+        54.0
+      ],
+      [
+        62.0,
+        66.0
+      ],
+      [
+        84.0,
+        86.0
+      ],
+      [
+        90.0,
+        94.0
+      ],
+      [
+        110.0,
+        112.0
+      ],
+      [
+        134.0,
+        136.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 26,
+        "start": 52.0,
+        "end": 54.0,
+        "score": 0.9999986476000693
+      },
+      {
+        "clip_id": 42,
+        "start": 84.0,
+        "end": 86.0,
+        "score": 0.9999176203773094
+      },
+      {
+        "clip_id": 67,
+        "start": 134.0,
+        "end": 136.0,
+        "score": 0.9962268920008749
+      },
+      {
+        "clip_id": 31,
+        "start": 62.0,
+        "end": 64.0,
+        "score": 0.9785526901182443
+      },
+      {
+        "clip_id": 14,
+        "start": 28.0,
+        "end": 30.0,
+        "score": 0.954145520934787
+      }
+    ],
+    "gt_windows": [
+      [
+        46,
+        66
+      ]
+    ],
+    "mean_best_iou": 0.2
+  },
+  {
+    "qid": 884,
+    "vid": "rrTIeJRVGjg_360.0_510.0",
+    "duration": 134.0,
+    "query": "Credits roll in the video.",
+    "predicted_windows": [
+      [
+        0.0,
+        18.0
+      ],
+      [
+        26.0,
+        30.0
+      ],
+      [
+        32.0,
+        36.0
+      ],
+      [
+        38.0,
+        52.0
+      ],
+      [
+        56.0,
+        60.0
+      ],
+      [
+        82.0,
+        94.0
+      ],
+      [
+        98.0,
+        134.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 4,
+        "start": 8.0,
+        "end": 10.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 5,
+        "start": 10.0,
+        "end": 12.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 44,
+        "start": 88.0,
+        "end": 90.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 54,
+        "start": 108.0,
+        "end": 110.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 55,
+        "start": 110.0,
+        "end": 112.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        112,
+        134
+      ]
+    ],
+    "mean_best_iou": 0.6111111111111112
+  },
+  {
+    "qid": 898,
+    "vid": "_i9qWLsZToY_60.0_210.0",
+    "duration": 150.0,
+    "query": "Woman in black rides escalators.",
+    "predicted_windows": [
+      [
+        122.0,
+        124.0
+      ],
+      [
+        128.0,
+        134.0
+      ],
+      [
+        138.0,
+        140.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 69,
+        "start": 138.0,
+        "end": 140.0,
+        "score": 0.9999999999999771
+      },
+      {
+        "clip_id": 66,
+        "start": 132.0,
+        "end": 134.0,
+        "score": 0.9999999927006336
+      },
+      {
+        "clip_id": 65,
+        "start": 130.0,
+        "end": 132.0,
+        "score": 0.9999997399804134
+      },
+      {
+        "clip_id": 64,
+        "start": 128.0,
+        "end": 130.0,
+        "score": 0.9999123159145431
+      },
+      {
+        "clip_id": 61,
+        "start": 122.0,
+        "end": 124.0,
+        "score": 0.9835035296966202
+      }
+    ],
+    "gt_windows": [
+      [
+        122,
+        134
+      ],
+      [
+        140,
+        144
+      ]
+    ],
+    "mean_best_iou": 0.25
+  },
+  {
+    "qid": 912,
+    "vid": "pu5p_ojK6BI_60.0_210.0",
+    "duration": 150.0,
+    "query": "Man and woman have a conversation in the back of a blue car.",
+    "predicted_windows": [
+      [
+        80.0,
+        82.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 40,
+        "start": 80.0,
+        "end": 82.0,
+        "score": 0.6633707922698872
+      },
+      {
+        "clip_id": 5,
+        "start": 10.0,
+        "end": 12.0,
+        "score": 9.730381152208858e-06
+      },
+      {
+        "clip_id": 4,
+        "start": 8.0,
+        "end": 10.0,
+        "score": 4.2357828194160925e-07
+      },
+      {
+        "clip_id": 43,
+        "start": 86.0,
+        "end": 88.0,
+        "score": 3.847768288598618e-07
+      },
+      {
+        "clip_id": 54,
+        "start": 108.0,
+        "end": 110.0,
+        "score": 2.1592732726575555e-07
+      }
+    ],
+    "gt_windows": [
+      [
+        74,
+        108
+      ]
+    ],
+    "mean_best_iou": 0.058823529411764705
+  },
+  {
+    "qid": 939,
+    "vid": "WEpnzfufxJQ_360.0_510.0",
+    "duration": 150.0,
+    "query": "Masked man walks around a city.",
+    "predicted_windows": [
+      [
+        0.0,
+        2.0
+      ],
+      [
+        6.0,
+        10.0
+      ],
+      [
+        16.0,
+        18.0
+      ],
+      [
+        20.0,
+        24.0
+      ],
+      [
+        38.0,
+        116.0
+      ],
+      [
+        120.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 11,
+        "start": 22.0,
+        "end": 24.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 20,
+        "start": 40.0,
+        "end": 42.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 39,
+        "start": 78.0,
+        "end": 80.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 40,
+        "start": 80.0,
+        "end": 82.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 45,
+        "start": 90.0,
+        "end": 92.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        42,
+        96
+      ],
+      [
+        98,
+        118
+      ],
+      [
+        124,
+        150
+      ]
+    ],
+    "mean_best_iou": 0.5946581196581197
+  },
+  {
+    "qid": 942,
+    "vid": "T60_zAvnAsU_360.0_510.0",
+    "duration": 150.0,
+    "query": "The Colosseum shown from many angles.",
+    "predicted_windows": [
+      [
+        36.0,
+        38.0
+      ],
+      [
+        42.0,
+        46.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 18,
+        "start": 36.0,
+        "end": 38.0,
+        "score": 0.9994226739971378
+      },
+      {
+        "clip_id": 22,
+        "start": 44.0,
+        "end": 46.0,
+        "score": 0.8487008118723367
+      },
+      {
+        "clip_id": 21,
+        "start": 42.0,
+        "end": 44.0,
+        "score": 0.5399384067461529
+      },
+      {
+        "clip_id": 25,
+        "start": 50.0,
+        "end": 52.0,
+        "score": 0.06769488664550027
+      },
+      {
+        "clip_id": 20,
+        "start": 40.0,
+        "end": 42.0,
+        "score": 0.05698482290616771
+      }
+    ],
+    "gt_windows": [
+      [
+        34,
+        54
+      ]
+    ],
+    "mean_best_iou": 0.2
+  },
+  {
+    "qid": 949,
+    "vid": "jyHSYDfqPnU_360.0_510.0",
+    "duration": 150.0,
+    "query": "Man is wearing a red scarf and white top.",
+    "predicted_windows": [
+      [
+        0.0,
+        2.0
+      ],
+      [
+        4.0,
+        6.0
+      ],
+      [
+        10.0,
+        14.0
+      ],
+      [
+        16.0,
+        18.0
+      ],
+      [
+        20.0,
+        22.0
+      ],
+      [
+        30.0,
+        36.0
+      ],
+      [
+        42.0,
+        48.0
+      ],
+      [
+        60.0,
+        66.0
+      ],
+      [
+        84.0,
+        102.0
+      ],
+      [
+        108.0,
+        110.0
+      ],
+      [
+        116.0,
+        118.0
+      ],
+      [
+        122.0,
+        126.0
+      ],
+      [
+        140.0,
+        142.0
+      ],
+      [
+        144.0,
+        146.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 42,
+        "start": 84.0,
+        "end": 86.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 43,
+        "start": 86.0,
+        "end": 88.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 45,
+        "start": 90.0,
+        "end": 92.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 47,
+        "start": 94.0,
+        "end": 96.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 48,
+        "start": 96.0,
+        "end": 98.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        86,
+        94
+      ],
+      [
+        96,
+        102
+      ]
+    ],
+    "mean_best_iou": 0.38888888888888884
+  },
+  {
+    "qid": 993,
+    "vid": "fOU0-2bBRnU_60.0_210.0",
+    "duration": 150.0,
+    "query": "Father holds onto his father.",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 51,
+        "start": 102.0,
+        "end": 104.0,
+        "score": 0.00022189469513395727
+      },
+      {
+        "clip_id": 49,
+        "start": 98.0,
+        "end": 100.0,
+        "score": 1.2235781221288092e-07
+      },
+      {
+        "clip_id": 53,
+        "start": 106.0,
+        "end": 108.0,
+        "score": 7.156793909370948e-12
+      },
+      {
+        "clip_id": 54,
+        "start": 108.0,
+        "end": 110.0,
+        "score": 1.6603001233809636e-12
+      },
+      {
+        "clip_id": 50,
+        "start": 100.0,
+        "end": 102.0,
+        "score": 1.3071322656500166e-15
+      }
+    ],
+    "gt_windows": [
+      [
+        98,
+        116
+      ]
+    ],
+    "mean_best_iou": 0.0
+  },
+  {
+    "qid": 1067,
+    "vid": "jyHSYDfqPnU_60.0_210.0",
+    "duration": 150.0,
+    "query": "People do skateboarding tricks in a city.",
+    "predicted_windows": [
+      [
+        0.0,
+        6.0
+      ],
+      [
+        10.0,
+        16.0
+      ],
+      [
+        24.0,
+        26.0
+      ],
+      [
+        30.0,
+        34.0
+      ],
+      [
+        36.0,
+        38.0
+      ],
+      [
+        46.0,
+        50.0
+      ],
+      [
+        54.0,
+        60.0
+      ],
+      [
+        74.0,
+        76.0
+      ],
+      [
+        78.0,
+        82.0
+      ],
+      [
+        90.0,
+        92.0
+      ],
+      [
+        102.0,
+        104.0
+      ],
+      [
+        132.0,
+        134.0
+      ],
+      [
+        136.0,
+        138.0
+      ],
+      [
+        140.0,
+        144.0
+      ],
+      [
+        146.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 68,
+        "start": 136.0,
+        "end": 138.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 70,
+        "start": 140.0,
+        "end": 142.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 71,
+        "start": 142.0,
+        "end": 144.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 73,
+        "start": 146.0,
+        "end": 148.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 74,
+        "start": 148.0,
+        "end": 150.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        134,
+        150
+      ]
+    ],
+    "mean_best_iou": 0.25
+  },
+  {
+    "qid": 1136,
+    "vid": "n_NdBRz6Z1E_210.0_360.0",
+    "duration": 150.0,
+    "query": "Two kids and a man walking and carrying suitcases through a tunnel.",
+    "predicted_windows": [
+      [
+        2.0,
+        4.0
+      ],
+      [
+        54.0,
+        56.0
+      ],
+      [
+        60.0,
+        62.0
+      ],
+      [
+        64.0,
+        68.0
+      ],
+      [
+        80.0,
+        88.0
+      ],
+      [
+        146.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 43,
+        "start": 86.0,
+        "end": 88.0,
+        "score": 0.9999999999998905
+      },
+      {
+        "clip_id": 74,
+        "start": 148.0,
+        "end": 150.0,
+        "score": 0.999999999978348
+      },
+      {
+        "clip_id": 42,
+        "start": 84.0,
+        "end": 86.0,
+        "score": 0.999999999947415
+      },
+      {
+        "clip_id": 41,
+        "start": 82.0,
+        "end": 84.0,
+        "score": 0.9999999997980233
+      },
+      {
+        "clip_id": 27,
+        "start": 54.0,
+        "end": 56.0,
+        "score": 0.9999407221358338
+      }
+    ],
+    "gt_windows": [
+      [
+        44,
+        48
+      ],
+      [
+        78,
+        104
+      ]
+    ],
+    "mean_best_iou": 0.15384615384615385
+  },
+  {
+    "qid": 1155,
+    "vid": "_t21xx94wZw_60.0_210.0",
+    "duration": 150.0,
+    "query": "Video of a car in travel.",
+    "predicted_windows": [
+      [
+        0.0,
+        108.0
+      ],
+      [
+        110.0,
+        122.0
+      ],
+      [
+        126.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 0,
+        "start": 0.0,
+        "end": 2.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 1,
+        "start": 2.0,
+        "end": 4.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 2,
+        "start": 4.0,
+        "end": 6.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 5,
+        "start": 10.0,
+        "end": 12.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 6,
+        "start": 12.0,
+        "end": 14.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        10,
+        14
+      ],
+      [
+        28,
+        32
+      ],
+      [
+        34,
+        54
+      ],
+      [
+        74,
+        80
+      ]
+    ],
+    "mean_best_iou": 0.07870370370370369
+  },
+  {
+    "qid": 1264,
+    "vid": "KWBfQjuwp4E_60.0_210.0",
+    "duration": 150.0,
+    "query": "The woman is sitting on the olive green yoga mat with her dog while speaking about yoga.",
+    "predicted_windows": [
+      [
+        0.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 0,
+        "start": 0.0,
+        "end": 2.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 1,
+        "start": 2.0,
+        "end": 4.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 5,
+        "start": 10.0,
+        "end": 12.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 6,
+        "start": 12.0,
+        "end": 14.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 9,
+        "start": 18.0,
+        "end": 20.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        0,
+        72
+      ],
+      [
+        84,
+        150
+      ]
+    ],
+    "mean_best_iou": 0.45999999999999996
+  },
+  {
+    "qid": 1271,
+    "vid": "6aFvTqmnrJQ_210.0_360.0",
+    "duration": 150.0,
+    "query": "A boy and girl interact with a clown in a mall.",
+    "predicted_windows": [
+      [
+        14.0,
+        16.0
+      ],
+      [
+        32.0,
+        36.0
+      ],
+      [
+        70.0,
+        72.0
+      ],
+      [
+        76.0,
+        116.0
+      ],
+      [
+        118.0,
+        134.0
+      ],
+      [
+        140.0,
+        142.0
+      ],
+      [
+        146.0,
+        148.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 45,
+        "start": 90.0,
+        "end": 92.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 46,
+        "start": 92.0,
+        "end": 94.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 48,
+        "start": 96.0,
+        "end": 98.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 49,
+        "start": 98.0,
+        "end": 100.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 52,
+        "start": 104.0,
+        "end": 106.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        92,
+        128
+      ]
+    ],
+    "mean_best_iou": 0.46153846153846156
+  },
+  {
+    "qid": 1276,
+    "vid": "8yHwJ3f7Fi4_360.0_510.0",
+    "duration": 150.0,
+    "query": "Different women dance in their home videos.",
+    "predicted_windows": [
+      [
+        4.0,
+        22.0
+      ],
+      [
+        26.0,
+        32.0
+      ],
+      [
+        34.0,
+        40.0
+      ],
+      [
+        42.0,
+        54.0
+      ],
+      [
+        58.0,
+        60.0
+      ],
+      [
+        62.0,
+        74.0
+      ],
+      [
+        78.0,
+        82.0
+      ],
+      [
+        86.0,
+        100.0
+      ],
+      [
+        102.0,
+        132.0
+      ],
+      [
+        134.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 5,
+        "start": 10.0,
+        "end": 12.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 7,
+        "start": 14.0,
+        "end": 16.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 10,
+        "start": 20.0,
+        "end": 22.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 18,
+        "start": 36.0,
+        "end": 38.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 25,
+        "start": 50.0,
+        "end": 52.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        8,
+        22
+      ],
+      [
+        36,
+        38
+      ],
+      [
+        50,
+        54
+      ],
+      [
+        68,
+        78
+      ],
+      [
+        132,
+        140
+      ]
+    ],
+    "mean_best_iou": 0.4305555555555555
+  },
+  {
+    "qid": 1303,
+    "vid": "Nhelnhenn1w_360.0_510.0",
+    "duration": 150.0,
+    "query": "An Asian woman eating french fries and talking at the same time",
+    "predicted_windows": [
+      [
+        24.0,
+        26.0
+      ],
+      [
+        28.0,
+        32.0
+      ],
+      [
+        36.0,
+        38.0
+      ],
+      [
+        40.0,
+        42.0
+      ],
+      [
+        44.0,
+        48.0
+      ],
+      [
+        54.0,
+        62.0
+      ],
+      [
+        70.0,
+        72.0
+      ],
+      [
+        78.0,
+        80.0
+      ],
+      [
+        84.0,
+        104.0
+      ],
+      [
+        106.0,
+        114.0
+      ],
+      [
+        118.0,
+        120.0
+      ],
+      [
+        124.0,
+        128.0
+      ],
+      [
+        130.0,
+        132.0
+      ],
+      [
+        138.0,
+        140.0
+      ],
+      [
+        144.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 28,
+        "start": 56.0,
+        "end": 58.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 54,
+        "start": 108.0,
+        "end": 110.0,
+        "score": 0.9999999999985183
+      },
+      {
+        "clip_id": 35,
+        "start": 70.0,
+        "end": 72.0,
+        "score": 0.9999999999869851
+      },
+      {
+        "clip_id": 65,
+        "start": 130.0,
+        "end": 132.0,
+        "score": 0.9999999999245044
+      },
+      {
+        "clip_id": 15,
+        "start": 30.0,
+        "end": 32.0,
+        "score": 0.9999999999022449
+      }
+    ],
+    "gt_windows": [
+      [
+        24,
+        40
+      ],
+      [
+        48,
+        54
+      ],
+      [
+        64,
+        70
+      ],
+      [
+        78,
+        84
+      ]
+    ],
+    "mean_best_iou": 0.14583333333333331
+  },
+  {
+    "qid": 1312,
+    "vid": "GOzEeIvLZO4_360.0_510.0",
+    "duration": 150.0,
+    "query": "A happy couple takes their happy baby to a tree-lined riverside on a beautify sunny, windy, and cold day",
+    "predicted_windows": [
+      [
+        0.0,
+        18.0
+      ],
+      [
+        20.0,
+        28.0
+      ],
+      [
+        30.0,
+        32.0
+      ],
+      [
+        36.0,
+        58.0
+      ],
+      [
+        60.0,
+        62.0
+      ],
+      [
+        64.0,
+        70.0
+      ],
+      [
+        72.0,
+        94.0
+      ],
+      [
+        96.0,
+        98.0
+      ],
+      [
+        100.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 1,
+        "start": 2.0,
+        "end": 4.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 2,
+        "start": 4.0,
+        "end": 6.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 4,
+        "start": 8.0,
+        "end": 10.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 10,
+        "start": 20.0,
+        "end": 22.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 15,
+        "start": 30.0,
+        "end": 32.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        36,
+        148
+      ]
+    ],
+    "mean_best_iou": 0.42105263157894735
+  },
+  {
+    "qid": 1323,
+    "vid": "IAbAn-MkMH8_60.0_210.0",
+    "duration": 150.0,
+    "query": "A girl getting her face and hair done by a professional",
+    "predicted_windows": [
+      [
+        82.0,
+        86.0
+      ],
+      [
+        88.0,
+        90.0
+      ],
+      [
+        92.0,
+        94.0
+      ],
+      [
+        96.0,
+        102.0
+      ],
+      [
+        104.0,
+        112.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 52,
+        "start": 104.0,
+        "end": 106.0,
+        "score": 0.9999999999991205
+      },
+      {
+        "clip_id": 55,
+        "start": 110.0,
+        "end": 112.0,
+        "score": 0.9999999999843359
+      },
+      {
+        "clip_id": 44,
+        "start": 88.0,
+        "end": 90.0,
+        "score": 0.9999999999554339
+      },
+      {
+        "clip_id": 50,
+        "start": 100.0,
+        "end": 102.0,
+        "score": 0.9999999998516147
+      },
+      {
+        "clip_id": 49,
+        "start": 98.0,
+        "end": 100.0,
+        "score": 0.9999999987717412
+      }
+    ],
+    "gt_windows": [
+      [
+        80,
+        112
+      ]
+    ],
+    "mean_best_iou": 0.25
+  },
+  {
+    "qid": 1360,
+    "vid": "Ehpo8gXg27I_360.0_510.0",
+    "duration": 150.0,
+    "query": "A few cars are in a parking lot.",
+    "predicted_windows": [
+      [
+        8.0,
+        10.0
+      ],
+      [
+        30.0,
+        32.0
+      ],
+      [
+        36.0,
+        38.0
+      ],
+      [
+        46.0,
+        76.0
+      ],
+      [
+        134.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 24,
+        "start": 48.0,
+        "end": 50.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 25,
+        "start": 50.0,
+        "end": 52.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 26,
+        "start": 52.0,
+        "end": 54.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 27,
+        "start": 54.0,
+        "end": 56.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 28,
+        "start": 56.0,
+        "end": 58.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        48,
+        66
+      ],
+      [
+        134,
+        150
+      ]
+    ],
+    "mean_best_iou": 0.8
+  },
+  {
+    "qid": 1505,
+    "vid": "KWBfQjuwp4E_210.0_360.0",
+    "duration": 150.0,
+    "query": "A woman talks about yoga and leads people through breathing exercise.",
+    "predicted_windows": [
+      [
+        0.0,
+        138.0
+      ],
+      [
+        140.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 0,
+        "start": 0.0,
+        "end": 2.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 1,
+        "start": 2.0,
+        "end": 4.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 2,
+        "start": 4.0,
+        "end": 6.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 3,
+        "start": 6.0,
+        "end": 8.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 4,
+        "start": 8.0,
+        "end": 10.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        0,
+        138
+      ]
+    ],
+    "mean_best_iou": 1.0
+  },
+  {
+    "qid": 1566,
+    "vid": "h6QKDqomIPk_60.0_210.0",
+    "duration": 150.0,
+    "query": "Woman talks in a parked car with her son over her shoulder.",
+    "predicted_windows": [
+      [
+        2.0,
+        60.0
+      ],
+      [
+        78.0,
+        92.0
+      ],
+      [
+        94.0,
+        96.0
+      ],
+      [
+        98.0,
+        106.0
+      ],
+      [
+        112.0,
+        120.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 58,
+        "start": 116.0,
+        "end": 118.0,
+        "score": 0.9999999999999998
+      },
+      {
+        "clip_id": 45,
+        "start": 90.0,
+        "end": 92.0,
+        "score": 0.9999999999999898
+      },
+      {
+        "clip_id": 2,
+        "start": 4.0,
+        "end": 6.0,
+        "score": 0.9999999999999891
+      },
+      {
+        "clip_id": 24,
+        "start": 48.0,
+        "end": 50.0,
+        "score": 0.9999999999999081
+      },
+      {
+        "clip_id": 22,
+        "start": 44.0,
+        "end": 46.0,
+        "score": 0.9999999999997726
+      }
+    ],
+    "gt_windows": [
+      [
+        0,
+        60
+      ],
+      [
+        76,
+        94
+      ]
+    ],
+    "mean_best_iou": 0.8722222222222222
+  },
+  {
+    "qid": 1568,
+    "vid": "Ehpo8gXg27I_60.0_210.0",
+    "duration": 150.0,
+    "query": "The two men are speaking while driving to their hotel.",
+    "predicted_windows": [
+      [
+        22.0,
+        26.0
+      ],
+      [
+        28.0,
+        38.0
+      ],
+      [
+        40.0,
+        110.0
+      ],
+      [
+        112.0,
+        148.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 35,
+        "start": 70.0,
+        "end": 72.0,
+        "score": 0.9999999999999998
+      },
+      {
+        "clip_id": 46,
+        "start": 92.0,
+        "end": 94.0,
+        "score": 0.9999999999999962
+      },
+      {
+        "clip_id": 66,
+        "start": 132.0,
+        "end": 134.0,
+        "score": 0.9999999999983749
+      },
+      {
+        "clip_id": 73,
+        "start": 146.0,
+        "end": 148.0,
+        "score": 0.9999999999939557
+      },
+      {
+        "clip_id": 52,
+        "start": 104.0,
+        "end": 106.0,
+        "score": 0.9999999998028593
+      }
+    ],
+    "gt_windows": [
+      [
+        22,
+        150
+      ]
+    ],
+    "mean_best_iou": 0.546875
+  },
+  {
+    "qid": 1571,
+    "vid": "KRHEqswrh9I_210.0_360.0",
+    "duration": 150.0,
+    "query": "Girl trying new product and giving review on",
+    "predicted_windows": [
+      [
+        52.0,
+        54.0
+      ],
+      [
+        72.0,
+        74.0
+      ],
+      [
+        76.0,
+        82.0
+      ],
+      [
+        88.0,
+        90.0
+      ],
+      [
+        108.0,
+        110.0
+      ],
+      [
+        120.0,
+        122.0
+      ],
+      [
+        138.0,
+        140.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 60,
+        "start": 120.0,
+        "end": 122.0,
+        "score": 0.9999999999999944
+      },
+      {
+        "clip_id": 40,
+        "start": 80.0,
+        "end": 82.0,
+        "score": 0.9999992448420829
+      },
+      {
+        "clip_id": 69,
+        "start": 138.0,
+        "end": 140.0,
+        "score": 0.9999958798909444
+      },
+      {
+        "clip_id": 39,
+        "start": 78.0,
+        "end": 80.0,
+        "score": 0.9980654984243842
+      },
+      {
+        "clip_id": 36,
+        "start": 72.0,
+        "end": 74.0,
+        "score": 0.9913539797487398
+      }
+    ],
+    "gt_windows": [
+      [
+        0,
+        32
+      ]
+    ],
+    "mean_best_iou": 0.0
+  },
+  {
+    "qid": 1751,
+    "vid": "A_MFAuOwK5k_210.0_360.0",
+    "duration": 150.0,
+    "query": "A man rolling and dicing a roti",
+    "predicted_windows": [
+      [
+        0.0,
+        6.0
+      ],
+      [
+        8.0,
+        10.0
+      ],
+      [
+        24.0,
+        26.0
+      ],
+      [
+        32.0,
+        34.0
+      ],
+      [
+        48.0,
+        52.0
+      ],
+      [
+        60.0,
+        74.0
+      ],
+      [
+        76.0,
+        78.0
+      ],
+      [
+        84.0,
+        86.0
+      ],
+      [
+        88.0,
+        90.0
+      ],
+      [
+        96.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 49,
+        "start": 98.0,
+        "end": 100.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 50,
+        "start": 100.0,
+        "end": 102.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 51,
+        "start": 102.0,
+        "end": 104.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 52,
+        "start": 104.0,
+        "end": 106.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 53,
+        "start": 106.0,
+        "end": 108.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        100,
+        126
+      ],
+      [
+        128,
+        130
+      ],
+      [
+        134,
+        150
+      ]
+    ],
+    "mean_best_iou": 0.2716049382716049
+  },
+  {
+    "qid": 1805,
+    "vid": "pu5p_ojK6BI_210.0_360.0",
+    "duration": 150.0,
+    "query": "A man trying a sugar free fruit juice in a local shop",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 4,
+        "start": 8.0,
+        "end": 10.0,
+        "score": 2.7040514628709444e-09
+      },
+      {
+        "clip_id": 9,
+        "start": 18.0,
+        "end": 20.0,
+        "score": 1.003214094769068e-09
+      },
+      {
+        "clip_id": 11,
+        "start": 22.0,
+        "end": 24.0,
+        "score": 7.707225035320522e-11
+      },
+      {
+        "clip_id": 10,
+        "start": 20.0,
+        "end": 22.0,
+        "score": 2.2355232392788625e-11
+      },
+      {
+        "clip_id": 0,
+        "start": 0.0,
+        "end": 2.0,
+        "score": 5.83412290927152e-12
+      }
+    ],
+    "gt_windows": [
+      [
+        0,
+        28
+      ]
+    ],
+    "mean_best_iou": 0.0
+  },
+  {
+    "qid": 1813,
+    "vid": "2iW3ei-5fpE_210.0_360.0",
+    "duration": 150.0,
+    "query": "Man in striped shirt helps the girl shop for clothes.",
+    "predicted_windows": [
+      [
+        8.0,
+        16.0
+      ],
+      [
+        18.0,
+        50.0
+      ],
+      [
+        54.0,
+        70.0
+      ],
+      [
+        72.0,
+        82.0
+      ],
+      [
+        84.0,
+        136.0
+      ],
+      [
+        142.0,
+        144.0
+      ],
+      [
+        148.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 18,
+        "start": 36.0,
+        "end": 38.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 19,
+        "start": 38.0,
+        "end": 40.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 22,
+        "start": 44.0,
+        "end": 46.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 23,
+        "start": 46.0,
+        "end": 48.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 28,
+        "start": 56.0,
+        "end": 58.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        44,
+        50
+      ],
+      [
+        62,
+        64
+      ],
+      [
+        76,
+        136
+      ],
+      [
+        146,
+        150
+      ]
+    ],
+    "mean_best_iou": 0.4197916666666667
+  },
+  {
+    "qid": 1870,
+    "vid": "yId2wIocTys_210.0_360.0",
+    "duration": 150.0,
+    "query": "Kids exercise in front of parked cars.",
+    "predicted_windows": [
+      [
+        2.0,
+        16.0
+      ],
+      [
+        28.0,
+        30.0
+      ],
+      [
+        48.0,
+        52.0
+      ],
+      [
+        74.0,
+        76.0
+      ],
+      [
+        88.0,
+        92.0
+      ],
+      [
+        94.0,
+        98.0
+      ],
+      [
+        110.0,
+        112.0
+      ],
+      [
+        134.0,
+        136.0
+      ],
+      [
+        144.0,
+        146.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 2,
+        "start": 4.0,
+        "end": 6.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 6,
+        "start": 12.0,
+        "end": 14.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 48,
+        "start": 96.0,
+        "end": 98.0,
+        "score": 0.9999999999905942
+      },
+      {
+        "clip_id": 3,
+        "start": 6.0,
+        "end": 8.0,
+        "score": 0.9999999999895366
+      },
+      {
+        "clip_id": 1,
+        "start": 2.0,
+        "end": 4.0,
+        "score": 0.999999999732964
+      }
+    ],
+    "gt_windows": [
+      [
+        0,
+        22
+      ]
+    ],
+    "mean_best_iou": 0.6363636363636364
+  },
+  {
+    "qid": 1872,
+    "vid": "zVwsEVwS8Kw_210.0_360.0",
+    "duration": 150.0,
+    "query": "Some friends have a birthday meal together around a large table at a restaurant.",
+    "predicted_windows": [
+      [
+        124.0,
+        126.0
+      ],
+      [
+        132.0,
+        134.0
+      ],
+      [
+        140.0,
+        144.0
+      ],
+      [
+        146.0,
+        150.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 70,
+        "start": 140.0,
+        "end": 142.0,
+        "score": 0.9999999984664261
+      },
+      {
+        "clip_id": 62,
+        "start": 124.0,
+        "end": 126.0,
+        "score": 0.9999997917434161
+      },
+      {
+        "clip_id": 74,
+        "start": 148.0,
+        "end": 150.0,
+        "score": 0.9999951717772071
+      },
+      {
+        "clip_id": 71,
+        "start": 142.0,
+        "end": 144.0,
+        "score": 0.999985350158969
+      },
+      {
+        "clip_id": 73,
+        "start": 146.0,
+        "end": 148.0,
+        "score": 0.998272818848154
+      }
+    ],
+    "gt_windows": [
+      [
+        122,
+        132
+      ],
+      [
+        134,
+        144
+      ],
+      [
+        146,
+        150
+      ]
+    ],
+    "mean_best_iou": 0.5333333333333333
+  },
+  {
+    "qid": 1874,
+    "vid": "n_NdBRz6Z1E_360.0_510.0",
+    "duration": 150.0,
+    "query": "Woman talks while looking at herself in the mirror.",
+    "predicted_windows": [
+      [
+        132.0,
+        134.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 66,
+        "start": 132.0,
+        "end": 134.0,
+        "score": 0.980802736834428
+      },
+      {
+        "clip_id": 74,
+        "start": 148.0,
+        "end": 150.0,
+        "score": 0.07448724310900312
+      },
+      {
+        "clip_id": 69,
+        "start": 138.0,
+        "end": 140.0,
+        "score": 0.013733702495580712
+      },
+      {
+        "clip_id": 68,
+        "start": 136.0,
+        "end": 138.0,
+        "score": 0.0071480174300750515
+      },
+      {
+        "clip_id": 67,
+        "start": 134.0,
+        "end": 136.0,
+        "score": 0.0002447468973563425
+      }
+    ],
+    "gt_windows": [
+      [
+        120,
+        142
+      ]
+    ],
+    "mean_best_iou": 0.09090909090909091
+  },
+  {
+    "qid": 1875,
+    "vid": "zY6XnLhTp7g_360.0_510.0",
+    "duration": 150.0,
+    "query": "Tourist vlogger showing beautiful hotel building and sunset",
+    "predicted_windows": [
+      [
+        0.0,
+        4.0
+      ],
+      [
+        10.0,
+        14.0
+      ],
+      [
+        16.0,
+        18.0
+      ],
+      [
+        20.0,
+        32.0
+      ],
+      [
+        102.0,
+        104.0
+      ],
+      [
+        106.0,
+        108.0
+      ],
+      [
+        134.0,
+        136.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 14,
+        "start": 28.0,
+        "end": 30.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 15,
+        "start": 30.0,
+        "end": 32.0,
+        "score": 0.9999999999998797
+      },
+      {
+        "clip_id": 13,
+        "start": 26.0,
+        "end": 28.0,
+        "score": 0.9999999999986253
+      },
+      {
+        "clip_id": 11,
+        "start": 22.0,
+        "end": 24.0,
+        "score": 0.9999999999738038
+      },
+      {
+        "clip_id": 5,
+        "start": 10.0,
+        "end": 12.0,
+        "score": 0.9999999999414271
+      }
+    ],
+    "gt_windows": [
+      [
+        10,
+        34
+      ]
+    ],
+    "mean_best_iou": 0.5
+  },
+  {
+    "qid": 1891,
+    "vid": "6OV8g7JkMvg_60.0_210.0",
+    "duration": 150.0,
+    "query": "The view of the top of the building during the day.",
+    "predicted_windows": [
+      [
+        4.0,
+        8.0
+      ],
+      [
+        12.0,
+        22.0
+      ],
+      [
+        26.0,
+        36.0
+      ],
+      [
+        38.0,
+        48.0
+      ],
+      [
+        50.0,
+        56.0
+      ],
+      [
+        60.0,
+        62.0
+      ],
+      [
+        68.0,
+        76.0
+      ],
+      [
+        78.0,
+        98.0
+      ],
+      [
+        100.0,
+        104.0
+      ],
+      [
+        106.0,
+        120.0
+      ],
+      [
+        124.0,
+        146.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 7,
+        "start": 14.0,
+        "end": 16.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 22,
+        "start": 44.0,
+        "end": 46.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 27,
+        "start": 54.0,
+        "end": 56.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 35,
+        "start": 70.0,
+        "end": 72.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 40,
+        "start": 80.0,
+        "end": 82.0,
+        "score": 1.0
+      }
+    ],
+    "gt_windows": [
+      [
+        98,
+        136
+      ]
+    ],
+    "mean_best_iou": 0.3684210526315789
+  },
+  {
+    "qid": 1909,
+    "vid": "_9vleIcuQd0_60.0_210.0",
+    "duration": 150.0,
+    "query": "A tourist in New York stops by a diner and a coffee shop",
+    "predicted_windows": [
+      [
+        32.0,
+        34.0
+      ],
+      [
+        42.0,
+        44.0
+      ],
+      [
+        58.0,
+        60.0
+      ],
+      [
+        66.0,
+        68.0
+      ],
+      [
+        74.0,
+        78.0
+      ],
+      [
+        90.0,
+        92.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 45,
+        "start": 90.0,
+        "end": 92.0,
+        "score": 0.9999999975142679
+      },
+      {
+        "clip_id": 38,
+        "start": 76.0,
+        "end": 78.0,
+        "score": 0.9995511363097206
+      },
+      {
+        "clip_id": 37,
+        "start": 74.0,
+        "end": 76.0,
+        "score": 0.9984525230094418
+      },
+      {
+        "clip_id": 16,
+        "start": 32.0,
+        "end": 34.0,
+        "score": 0.9964744490553503
+      },
+      {
+        "clip_id": 21,
+        "start": 42.0,
+        "end": 44.0,
+        "score": 0.9897633519519399
+      }
+    ],
+    "gt_windows": [
+      [
+        24,
+        38
+      ],
+      [
+        40,
+        78
+      ]
+    ],
+    "mean_best_iou": 0.12406015037593984
+  },
+  {
+    "qid": 1918,
+    "vid": "lwNho_1tKrc_60.0_210.0",
+    "duration": 150.0,
+    "query": "The three men are given leis and dance while they are greeted by musicians playing.",
+    "predicted_windows": [
+      [
+        4.0,
+        10.0
+      ],
+      [
+        14.0,
+        18.0
+      ],
+      [
+        20.0,
+        26.0
+      ],
+      [
+        30.0,
+        40.0
+      ],
+      [
+        44.0,
+        46.0
+      ],
+      [
+        50.0,
+        52.0
+      ],
+      [
+        116.0,
+        118.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 8,
+        "start": 16.0,
+        "end": 18.0,
+        "score": 1.0
+      },
+      {
+        "clip_id": 15,
+        "start": 30.0,
+        "end": 32.0,
+        "score": 0.9999999999999969
+      },
+      {
+        "clip_id": 4,
+        "start": 8.0,
+        "end": 10.0,
+        "score": 0.9999999999995515
+      },
+      {
+        "clip_id": 11,
+        "start": 22.0,
+        "end": 24.0,
+        "score": 0.999999999992544
+      },
+      {
+        "clip_id": 2,
+        "start": 4.0,
+        "end": 6.0,
+        "score": 0.9999999998960707
+      }
+    ],
+    "gt_windows": [
+      [
+        0,
+        26
+      ]
+    ],
+    "mean_best_iou": 0.23076923076923078
+  }
+]

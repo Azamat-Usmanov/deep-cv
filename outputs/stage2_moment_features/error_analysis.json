@@ -1,0 +1,1581 @@
+[
+  {
+    "qid": 6107,
+    "vid": "j9NNAmqweOA_210.0_360.0",
+    "duration": 150.0,
+    "query": "Man gets a tattoo on his forearm.",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 18,
+        "start": 36.0,
+        "end": 38.0,
+        "score": 5.1091772507261084e-05
+      },
+      {
+        "clip_id": 16,
+        "start": 32.0,
+        "end": 34.0,
+        "score": 1.932780445198311e-08
+      },
+      {
+        "clip_id": 60,
+        "start": 120.0,
+        "end": 122.0,
+        "score": 1.6025426812475634e-08
+      },
+      {
+        "clip_id": 14,
+        "start": 28.0,
+        "end": 30.0,
+        "score": 1.4240139164023335e-08
+      },
+      {
+        "clip_id": 62,
+        "start": 124.0,
+        "end": 126.0,
+        "score": 1.2540511980735688e-08
+      }
+    ],
+    "gt_windows": [
+      [
+        20,
+        150
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 130
+  },
+  {
+    "qid": 4627,
+    "vid": "Ci4jrBQXtTI_210.0_360.0",
+    "duration": 150.0,
+    "query": "Woman in black top stands between a bookcase and a plant.",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 49,
+        "start": 98.0,
+        "end": 100.0,
+        "score": 5.03803895157604e-05
+      },
+      {
+        "clip_id": 48,
+        "start": 96.0,
+        "end": 98.0,
+        "score": 3.552172581319865e-06
+      },
+      {
+        "clip_id": 64,
+        "start": 128.0,
+        "end": 130.0,
+        "score": 1.647192543700052e-07
+      },
+      {
+        "clip_id": 44,
+        "start": 88.0,
+        "end": 90.0,
+        "score": 7.7277854927284e-08
+      },
+      {
+        "clip_id": 28,
+        "start": 56.0,
+        "end": 58.0,
+        "score": 5.175827566026084e-08
+      }
+    ],
+    "gt_windows": [
+      [
+        26,
+        36
+      ],
+      [
+        50,
+        60
+      ],
+      [
+        62,
+        150
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 108
+  },
+  {
+    "qid": 3069,
+    "vid": "FL0Cos34RjU_60.0_210.0",
+    "duration": 150.0,
+    "query": "A guy doing a suite's room door",
+    "predicted_windows": [
+      [
+        50.0,
+        54.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 26,
+        "start": 52.0,
+        "end": 54.0,
+        "score": 0.9025596216730352
+      },
+      {
+        "clip_id": 25,
+        "start": 50.0,
+        "end": 52.0,
+        "score": 0.8608395036052459
+      },
+      {
+        "clip_id": 24,
+        "start": 48.0,
+        "end": 50.0,
+        "score": 0.002256791526471881
+      },
+      {
+        "clip_id": 1,
+        "start": 2.0,
+        "end": 4.0,
+        "score": 0.0014655013385655052
+      },
+      {
+        "clip_id": 66,
+        "start": 132.0,
+        "end": 134.0,
+        "score": 1.372511571435087e-06
+      }
+    ],
+    "gt_windows": [
+      [
+        58,
+        150
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "low_overlap",
+    "predicted_coverage": 4.0,
+    "gt_coverage": 92
+  },
+  {
+    "qid": 3525,
+    "vid": "YIUaJzjNPuo_210.0_360.0",
+    "duration": 150.0,
+    "query": "A girl doing a selfie video in her night dress",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 33,
+        "start": 66.0,
+        "end": 68.0,
+        "score": 0.06654149247100598
+      },
+      {
+        "clip_id": 22,
+        "start": 44.0,
+        "end": 46.0,
+        "score": 0.0003352095531035449
+      },
+      {
+        "clip_id": 21,
+        "start": 42.0,
+        "end": 44.0,
+        "score": 1.0386600307043096e-06
+      },
+      {
+        "clip_id": 51,
+        "start": 102.0,
+        "end": 104.0,
+        "score": 7.016005860290668e-08
+      },
+      {
+        "clip_id": 36,
+        "start": 72.0,
+        "end": 74.0,
+        "score": 2.3538492496931102e-08
+      }
+    ],
+    "gt_windows": [
+      [
+        26,
+        50
+      ],
+      [
+        56,
+        80
+      ],
+      [
+        86,
+        92
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 54
+  },
+  {
+    "qid": 2321,
+    "vid": "r7A-cfBq2Xw_210.0_360.0",
+    "duration": 150.0,
+    "query": "A girl opening post office mails in a car",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 5,
+        "start": 10.0,
+        "end": 12.0,
+        "score": 0.004192338628338886
+      },
+      {
+        "clip_id": 69,
+        "start": 138.0,
+        "end": 140.0,
+        "score": 0.0006456999723081752
+      },
+      {
+        "clip_id": 21,
+        "start": 42.0,
+        "end": 44.0,
+        "score": 0.0001224614343664351
+      },
+      {
+        "clip_id": 50,
+        "start": 100.0,
+        "end": 102.0,
+        "score": 2.4633686071584133e-05
+      },
+      {
+        "clip_id": 36,
+        "start": 72.0,
+        "end": 74.0,
+        "score": 1.9443840762140213e-05
+      }
+    ],
+    "gt_windows": [
+      [
+        40,
+        90
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 50
+  },
+  {
+    "qid": 4758,
+    "vid": "MmGtg0qgceA_60.0_210.0",
+    "duration": 150.0,
+    "query": "Woman in glasses wears a shirt with soccer balls.",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 9,
+        "start": 18.0,
+        "end": 20.0,
+        "score": 1.8194862967037216e-23
+      },
+      {
+        "clip_id": 5,
+        "start": 10.0,
+        "end": 12.0,
+        "score": 1.4169850866465085e-23
+      },
+      {
+        "clip_id": 0,
+        "start": 0.0,
+        "end": 2.0,
+        "score": 1.1854777226621557e-23
+      },
+      {
+        "clip_id": 10,
+        "start": 20.0,
+        "end": 22.0,
+        "score": 1.088700698163777e-24
+      },
+      {
+        "clip_id": 21,
+        "start": 42.0,
+        "end": 44.0,
+        "score": 6.65375882654124e-26
+      }
+    ],
+    "gt_windows": [
+      [
+        0,
+        44
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 44
+  },
+  {
+    "qid": 8425,
+    "vid": "H15bUc-1LJo_660.0_810.0",
+    "duration": 150.0,
+    "query": "A woman in green blouse and her babe are being recorded while sitting on the chair",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 64,
+        "start": 128.0,
+        "end": 130.0,
+        "score": 0.1454057664556197
+      },
+      {
+        "clip_id": 63,
+        "start": 126.0,
+        "end": 128.0,
+        "score": 0.0009090550926172382
+      },
+      {
+        "clip_id": 59,
+        "start": 118.0,
+        "end": 120.0,
+        "score": 0.00031065942551288585
+      },
+      {
+        "clip_id": 41,
+        "start": 82.0,
+        "end": 84.0,
+        "score": 0.00018268819506246103
+      },
+      {
+        "clip_id": 57,
+        "start": 114.0,
+        "end": 116.0,
+        "score": 0.00015341402879128171
+      }
+    ],
+    "gt_windows": [
+      [
+        50,
+        92
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 42
+  },
+  {
+    "qid": 6252,
+    "vid": "AVErftnrqwY_60.0_210.0",
+    "duration": 150.0,
+    "query": "Man stands behind a counter with a large plate of food.",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 70,
+        "start": 140.0,
+        "end": 142.0,
+        "score": 9.7242514817321e-05
+      },
+      {
+        "clip_id": 53,
+        "start": 106.0,
+        "end": 108.0,
+        "score": 3.05267128180616e-05
+      },
+      {
+        "clip_id": 71,
+        "start": 142.0,
+        "end": 144.0,
+        "score": 8.193720725591759e-07
+      },
+      {
+        "clip_id": 26,
+        "start": 52.0,
+        "end": 54.0,
+        "score": 7.853459110343258e-07
+      },
+      {
+        "clip_id": 24,
+        "start": 48.0,
+        "end": 50.0,
+        "score": 5.449008409153596e-07
+      }
+    ],
+    "gt_windows": [
+      [
+        0,
+        40
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 40
+  },
+  {
+    "qid": 7691,
+    "vid": "j9NNAmqweOA_360.0_510.0",
+    "duration": 150.0,
+    "query": "Man gets a tattoo on his hand.",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 11,
+        "start": 22.0,
+        "end": 24.0,
+        "score": 1.2458025538320993e-08
+      },
+      {
+        "clip_id": 14,
+        "start": 28.0,
+        "end": 30.0,
+        "score": 1.5259285955896391e-09
+      },
+      {
+        "clip_id": 6,
+        "start": 12.0,
+        "end": 14.0,
+        "score": 9.608485784661706e-12
+      },
+      {
+        "clip_id": 13,
+        "start": 26.0,
+        "end": 28.0,
+        "score": 6.386853000276607e-12
+      },
+      {
+        "clip_id": 8,
+        "start": 16.0,
+        "end": 18.0,
+        "score": 4.53163466288141e-12
+      }
+    ],
+    "gt_windows": [
+      [
+        0,
+        36
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 36
+  },
+  {
+    "qid": 4029,
+    "vid": "XpVt6Z1Gjjo_210.0_360.0",
+    "duration": 150.0,
+    "query": "Young man has his foot above the glove compartment of a car",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 46,
+        "start": 92.0,
+        "end": 94.0,
+        "score": 0.019660027538945128
+      },
+      {
+        "clip_id": 52,
+        "start": 104.0,
+        "end": 106.0,
+        "score": 0.00024858735497901454
+      },
+      {
+        "clip_id": 50,
+        "start": 100.0,
+        "end": 102.0,
+        "score": 2.708016448816242e-05
+      },
+      {
+        "clip_id": 51,
+        "start": 102.0,
+        "end": 104.0,
+        "score": 1.2361314017109413e-05
+      },
+      {
+        "clip_id": 60,
+        "start": 120.0,
+        "end": 122.0,
+        "score": 5.785385897693765e-07
+      }
+    ],
+    "gt_windows": [
+      [
+        114,
+        126
+      ],
+      [
+        128,
+        150
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 34
+  },
+  {
+    "qid": 4217,
+    "vid": "j9NNAmqweOA_60.0_210.0",
+    "duration": 150.0,
+    "query": "A woman cleans the bathroom.",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 31,
+        "start": 62.0,
+        "end": 64.0,
+        "score": 0.000534369998974001
+      },
+      {
+        "clip_id": 37,
+        "start": 74.0,
+        "end": 76.0,
+        "score": 9.951575252991978e-05
+      },
+      {
+        "clip_id": 44,
+        "start": 88.0,
+        "end": 90.0,
+        "score": 3.0326703909873683e-06
+      },
+      {
+        "clip_id": 45,
+        "start": 90.0,
+        "end": 92.0,
+        "score": 2.744653715676231e-06
+      },
+      {
+        "clip_id": 38,
+        "start": 76.0,
+        "end": 78.0,
+        "score": 5.871900104328975e-07
+      }
+    ],
+    "gt_windows": [
+      [
+        60,
+        94
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 34
+  },
+  {
+    "qid": 1571,
+    "vid": "KRHEqswrh9I_210.0_360.0",
+    "duration": 150.0,
+    "query": "Girl trying new product and giving review on",
+    "predicted_windows": [
+      [
+        52.0,
+        54.0
+      ],
+      [
+        72.0,
+        74.0
+      ],
+      [
+        76.0,
+        82.0
+      ],
+      [
+        88.0,
+        90.0
+      ],
+      [
+        108.0,
+        110.0
+      ],
+      [
+        120.0,
+        122.0
+      ],
+      [
+        138.0,
+        140.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 60,
+        "start": 120.0,
+        "end": 122.0,
+        "score": 0.9999999999999944
+      },
+      {
+        "clip_id": 40,
+        "start": 80.0,
+        "end": 82.0,
+        "score": 0.9999992448420829
+      },
+      {
+        "clip_id": 69,
+        "start": 138.0,
+        "end": 140.0,
+        "score": 0.9999958798909444
+      },
+      {
+        "clip_id": 39,
+        "start": 78.0,
+        "end": 80.0,
+        "score": 0.9980654984243842
+      },
+      {
+        "clip_id": 36,
+        "start": 72.0,
+        "end": 74.0,
+        "score": 0.9913539797487398
+      }
+    ],
+    "gt_windows": [
+      [
+        0,
+        32
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "low_overlap",
+    "predicted_coverage": 18.0,
+    "gt_coverage": 32
+  },
+  {
+    "qid": 3603,
+    "vid": "qBe1PUrRHUo_360.0_510.0",
+    "duration": 150.0,
+    "query": "Woman fixes her hair at different times.",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 46,
+        "start": 92.0,
+        "end": 94.0,
+        "score": 1.3255211733680913e-07
+      },
+      {
+        "clip_id": 11,
+        "start": 22.0,
+        "end": 24.0,
+        "score": 2.3610099647083044e-08
+      },
+      {
+        "clip_id": 47,
+        "start": 94.0,
+        "end": 96.0,
+        "score": 1.3117512812419725e-08
+      },
+      {
+        "clip_id": 55,
+        "start": 110.0,
+        "end": 112.0,
+        "score": 2.2154170091021594e-10
+      },
+      {
+        "clip_id": 49,
+        "start": 98.0,
+        "end": 100.0,
+        "score": 1.0002591486729266e-10
+      }
+    ],
+    "gt_windows": [
+      [
+        26,
+        36
+      ],
+      [
+        86,
+        108
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 32
+  },
+  {
+    "qid": 4707,
+    "vid": "_ufoIeYZYjw_210.0_360.0",
+    "duration": 150.0,
+    "query": "Vlogger goes on a tour of the pier.",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 51,
+        "start": 102.0,
+        "end": 104.0,
+        "score": 4.135581121969263e-16
+      },
+      {
+        "clip_id": 64,
+        "start": 128.0,
+        "end": 130.0,
+        "score": 3.4096311098661754e-16
+      },
+      {
+        "clip_id": 49,
+        "start": 98.0,
+        "end": 100.0,
+        "score": 8.67407862383021e-17
+      },
+      {
+        "clip_id": 55,
+        "start": 110.0,
+        "end": 112.0,
+        "score": 7.543183069144815e-17
+      },
+      {
+        "clip_id": 60,
+        "start": 120.0,
+        "end": 122.0,
+        "score": 9.69803680455022e-19
+      }
+    ],
+    "gt_windows": [
+      [
+        104,
+        112
+      ],
+      [
+        118,
+        140
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 30
+  },
+  {
+    "qid": 1805,
+    "vid": "pu5p_ojK6BI_210.0_360.0",
+    "duration": 150.0,
+    "query": "A man trying a sugar free fruit juice in a local shop",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 4,
+        "start": 8.0,
+        "end": 10.0,
+        "score": 2.7040514628709444e-09
+      },
+      {
+        "clip_id": 9,
+        "start": 18.0,
+        "end": 20.0,
+        "score": 1.003214094769068e-09
+      },
+      {
+        "clip_id": 11,
+        "start": 22.0,
+        "end": 24.0,
+        "score": 7.707225035320522e-11
+      },
+      {
+        "clip_id": 10,
+        "start": 20.0,
+        "end": 22.0,
+        "score": 2.2355232392788625e-11
+      },
+      {
+        "clip_id": 0,
+        "start": 0.0,
+        "end": 2.0,
+        "score": 5.83412290927152e-12
+      }
+    ],
+    "gt_windows": [
+      [
+        0,
+        28
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 28
+  },
+  {
+    "qid": 8987,
+    "vid": "DTrwYYi25Dc_660.0_810.0",
+    "duration": 150.0,
+    "query": "women show the Bollywood walk of fame",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 39,
+        "start": 78.0,
+        "end": 80.0,
+        "score": 0.038202266344480096
+      },
+      {
+        "clip_id": 38,
+        "start": 76.0,
+        "end": 78.0,
+        "score": 0.0014354952880244545
+      },
+      {
+        "clip_id": 48,
+        "start": 96.0,
+        "end": 98.0,
+        "score": 5.227908950491287e-13
+      },
+      {
+        "clip_id": 47,
+        "start": 94.0,
+        "end": 96.0,
+        "score": 1.6841714341989134e-13
+      },
+      {
+        "clip_id": 46,
+        "start": 92.0,
+        "end": 94.0,
+        "score": 1.237348074559528e-17
+      }
+    ],
+    "gt_windows": [
+      [
+        72,
+        98
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 26
+  },
+  {
+    "qid": 2220,
+    "vid": "_i9qWLsZToY_210.0_360.0",
+    "duration": 150.0,
+    "query": "Man in black top walks through glass store walkway.",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 74,
+        "start": 148.0,
+        "end": 150.0,
+        "score": 3.657387554368622e-10
+      },
+      {
+        "clip_id": 6,
+        "start": 12.0,
+        "end": 14.0,
+        "score": 1.3296439106708676e-12
+      },
+      {
+        "clip_id": 12,
+        "start": 24.0,
+        "end": 26.0,
+        "score": 9.523456414059867e-17
+      },
+      {
+        "clip_id": 13,
+        "start": 26.0,
+        "end": 28.0,
+        "score": 3.4443299426682686e-18
+      },
+      {
+        "clip_id": 7,
+        "start": 14.0,
+        "end": 16.0,
+        "score": 2.1517177896331943e-18
+      }
+    ],
+    "gt_windows": [
+      [
+        14,
+        38
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 24
+  },
+  {
+    "qid": 7604,
+    "vid": "O5RKn-qeIVI_210.0_360.0",
+    "duration": 150.0,
+    "query": "Man is wearing shirt around one shoulder on the side of the road.",
+    "predicted_windows": [
+      [
+        50.0,
+        52.0
+      ],
+      [
+        88.0,
+        90.0
+      ],
+      [
+        92.0,
+        94.0
+      ],
+      [
+        96.0,
+        100.0
+      ],
+      [
+        144.0,
+        148.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 72,
+        "start": 144.0,
+        "end": 146.0,
+        "score": 0.9983357064573878
+      },
+      {
+        "clip_id": 48,
+        "start": 96.0,
+        "end": 98.0,
+        "score": 0.9982246329137134
+      },
+      {
+        "clip_id": 73,
+        "start": 146.0,
+        "end": 148.0,
+        "score": 0.9941984960410454
+      },
+      {
+        "clip_id": 25,
+        "start": 50.0,
+        "end": 52.0,
+        "score": 0.9917150309478955
+      },
+      {
+        "clip_id": 44,
+        "start": 88.0,
+        "end": 90.0,
+        "score": 0.9008225257885824
+      }
+    ],
+    "gt_windows": [
+      [
+        62,
+        86
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "low_overlap",
+    "predicted_coverage": 14.0,
+    "gt_coverage": 24
+  },
+  {
+    "qid": 8636,
+    "vid": "NUsG9BgSes0_660.0_810.0",
+    "duration": 150.0,
+    "query": "Woman holds up a green bottle.",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 18,
+        "start": 36.0,
+        "end": 38.0,
+        "score": 7.609603535484398e-06
+      },
+      {
+        "clip_id": 41,
+        "start": 82.0,
+        "end": 84.0,
+        "score": 1.5430294995450063e-10
+      },
+      {
+        "clip_id": 19,
+        "start": 38.0,
+        "end": 40.0,
+        "score": 1.3689548351646447e-16
+      },
+      {
+        "clip_id": 29,
+        "start": 58.0,
+        "end": 60.0,
+        "score": 4.4717372328350524e-17
+      },
+      {
+        "clip_id": 33,
+        "start": 66.0,
+        "end": 68.0,
+        "score": 1.3199828164749429e-17
+      }
+    ],
+    "gt_windows": [
+      [
+        36,
+        60
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 24
+  },
+  {
+    "qid": 1999,
+    "vid": "DTrwYYi25Dc_210.0_360.0",
+    "duration": 150.0,
+    "query": "A woman in pink head scarf is buying a grilled corn from a stall near Jummah Prayer and eating it.",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 56,
+        "start": 112.0,
+        "end": 114.0,
+        "score": 0.0004764388613794754
+      },
+      {
+        "clip_id": 54,
+        "start": 108.0,
+        "end": 110.0,
+        "score": 8.897134114882814e-06
+      },
+      {
+        "clip_id": 49,
+        "start": 98.0,
+        "end": 100.0,
+        "score": 2.1960234414567944e-11
+      },
+      {
+        "clip_id": 55,
+        "start": 110.0,
+        "end": 112.0,
+        "score": 9.162981991972928e-12
+      },
+      {
+        "clip_id": 52,
+        "start": 104.0,
+        "end": 106.0,
+        "score": 5.156956611703792e-15
+      }
+    ],
+    "gt_windows": [
+      [
+        92,
+        114
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 22
+  },
+  {
+    "qid": 6885,
+    "vid": "DTrwYYi25Dc_60.0_210.0",
+    "duration": 150.0,
+    "query": "A woman stands before a mirror and discusses her pink outfit.",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 68,
+        "start": 136.0,
+        "end": 138.0,
+        "score": 0.0017894677894003353
+      },
+      {
+        "clip_id": 52,
+        "start": 104.0,
+        "end": 106.0,
+        "score": 3.371636569253276e-06
+      },
+      {
+        "clip_id": 64,
+        "start": 128.0,
+        "end": 130.0,
+        "score": 3.1754522425667456e-06
+      },
+      {
+        "clip_id": 50,
+        "start": 100.0,
+        "end": 102.0,
+        "score": 1.9476583147378904e-06
+      },
+      {
+        "clip_id": 57,
+        "start": 114.0,
+        "end": 116.0,
+        "score": 1.9606784211934198e-07
+      }
+    ],
+    "gt_windows": [
+      [
+        114,
+        130
+      ],
+      [
+        136,
+        140
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 20
+  },
+  {
+    "qid": 7002,
+    "vid": "IdpHJK90VDw_510.0_660.0",
+    "duration": 150.0,
+    "query": "Man stands behind the woman at the table.",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 72,
+        "start": 144.0,
+        "end": 146.0,
+        "score": 1.769552012662617e-15
+      },
+      {
+        "clip_id": 71,
+        "start": 142.0,
+        "end": 144.0,
+        "score": 8.005623479623402e-16
+      },
+      {
+        "clip_id": 68,
+        "start": 136.0,
+        "end": 138.0,
+        "score": 4.862624172998552e-16
+      },
+      {
+        "clip_id": 62,
+        "start": 124.0,
+        "end": 126.0,
+        "score": 5.134873656619511e-18
+      },
+      {
+        "clip_id": 40,
+        "start": 80.0,
+        "end": 82.0,
+        "score": 1.783859048791472e-18
+      }
+    ],
+    "gt_windows": [
+      [
+        82,
+        84
+      ],
+      [
+        106,
+        124
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 20
+  },
+  {
+    "qid": 993,
+    "vid": "fOU0-2bBRnU_60.0_210.0",
+    "duration": 150.0,
+    "query": "Father holds onto his father.",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 51,
+        "start": 102.0,
+        "end": 104.0,
+        "score": 0.00022189469513395727
+      },
+      {
+        "clip_id": 49,
+        "start": 98.0,
+        "end": 100.0,
+        "score": 1.2235781221288092e-07
+      },
+      {
+        "clip_id": 53,
+        "start": 106.0,
+        "end": 108.0,
+        "score": 7.156793909370948e-12
+      },
+      {
+        "clip_id": 54,
+        "start": 108.0,
+        "end": 110.0,
+        "score": 1.6603001233809636e-12
+      },
+      {
+        "clip_id": 50,
+        "start": 100.0,
+        "end": 102.0,
+        "score": 1.3071322656500166e-15
+      }
+    ],
+    "gt_windows": [
+      [
+        98,
+        116
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 18
+  },
+  {
+    "qid": 4973,
+    "vid": "KRHEqswrh9I_360.0_510.0",
+    "duration": 150.0,
+    "query": "A woman in white is holding up a black swewater with white stars on it.",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 11,
+        "start": 22.0,
+        "end": 24.0,
+        "score": 6.860526739471955e-11
+      },
+      {
+        "clip_id": 9,
+        "start": 18.0,
+        "end": 20.0,
+        "score": 7.04765128357685e-13
+      },
+      {
+        "clip_id": 5,
+        "start": 10.0,
+        "end": 12.0,
+        "score": 4.281396066386284e-18
+      },
+      {
+        "clip_id": 30,
+        "start": 60.0,
+        "end": 62.0,
+        "score": 3.380227759051796e-18
+      },
+      {
+        "clip_id": 38,
+        "start": 76.0,
+        "end": 78.0,
+        "score": 5.242149629581593e-21
+      }
+    ],
+    "gt_windows": [
+      [
+        8,
+        26
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 18
+  },
+  {
+    "qid": 6083,
+    "vid": "A_MFAuOwK5k_60.0_210.0",
+    "duration": 150.0,
+    "query": "Chefs cook the onions alone in a pot.",
+    "predicted_windows": [
+      [
+        74.0,
+        76.0
+      ],
+      [
+        96.0,
+        98.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 48,
+        "start": 96.0,
+        "end": 98.0,
+        "score": 0.9972857045920931
+      },
+      {
+        "clip_id": 37,
+        "start": 74.0,
+        "end": 76.0,
+        "score": 0.9544524416935517
+      },
+      {
+        "clip_id": 44,
+        "start": 88.0,
+        "end": 90.0,
+        "score": 0.08124306529156955
+      },
+      {
+        "clip_id": 45,
+        "start": 90.0,
+        "end": 92.0,
+        "score": 0.016601402106601184
+      },
+      {
+        "clip_id": 49,
+        "start": 98.0,
+        "end": 100.0,
+        "score": 0.00401648903458748
+      }
+    ],
+    "gt_windows": [
+      [
+        80,
+        96
+      ],
+      [
+        102,
+        104
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "low_overlap",
+    "predicted_coverage": 4.0,
+    "gt_coverage": 18
+  },
+  {
+    "qid": 7555,
+    "vid": "IdpHJK90VDw_660.0_810.0",
+    "duration": 150.0,
+    "query": "Man in a black suit escorts a woman to a doorway.",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 59,
+        "start": 118.0,
+        "end": 120.0,
+        "score": 1.1834867524749506e-19
+      },
+      {
+        "clip_id": 41,
+        "start": 82.0,
+        "end": 84.0,
+        "score": 9.658189298884631e-22
+      },
+      {
+        "clip_id": 72,
+        "start": 144.0,
+        "end": 146.0,
+        "score": 8.263900735191728e-22
+      },
+      {
+        "clip_id": 74,
+        "start": 148.0,
+        "end": 150.0,
+        "score": 9.671692624289558e-24
+      },
+      {
+        "clip_id": 32,
+        "start": 64.0,
+        "end": 66.0,
+        "score": 3.082381648370321e-26
+      }
+    ],
+    "gt_windows": [
+      [
+        94,
+        112
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 18
+  },
+  {
+    "qid": 8108,
+    "vid": "qBe1PUrRHUo_60.0_210.0",
+    "duration": 150.0,
+    "query": "A woman is looking through a clear plastic container with different clothes in it.",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 19,
+        "start": 38.0,
+        "end": 40.0,
+        "score": 4.993117267470315e-08
+      },
+      {
+        "clip_id": 16,
+        "start": 32.0,
+        "end": 34.0,
+        "score": 3.7821616729586795e-14
+      },
+      {
+        "clip_id": 44,
+        "start": 88.0,
+        "end": 90.0,
+        "score": 1.431487533223592e-16
+      },
+      {
+        "clip_id": 14,
+        "start": 28.0,
+        "end": 30.0,
+        "score": 4.073486211010814e-18
+      },
+      {
+        "clip_id": 13,
+        "start": 26.0,
+        "end": 28.0,
+        "score": 2.9006481925754693e-19
+      }
+    ],
+    "gt_windows": [
+      [
+        24,
+        42
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 18
+  },
+  {
+    "qid": 5257,
+    "vid": "6aFvTqmnrJQ_360.0_510.0",
+    "duration": 150.0,
+    "query": "A clown puts balloons onto a pump.",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 67,
+        "start": 134.0,
+        "end": 136.0,
+        "score": 1.392568816654454e-09
+      },
+      {
+        "clip_id": 70,
+        "start": 140.0,
+        "end": 142.0,
+        "score": 6.696845294018328e-12
+      },
+      {
+        "clip_id": 69,
+        "start": 138.0,
+        "end": 140.0,
+        "score": 8.792298775707239e-14
+      },
+      {
+        "clip_id": 68,
+        "start": 136.0,
+        "end": 138.0,
+        "score": 3.0581629617147814e-14
+      },
+      {
+        "clip_id": 58,
+        "start": 116.0,
+        "end": 118.0,
+        "score": 4.217130068821793e-15
+      }
+    ],
+    "gt_windows": [
+      [
+        132,
+        146
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 14
+  },
+  {
+    "qid": 5690,
+    "vid": "Ci4jrBQXtTI_360.0_510.0",
+    "duration": 150.0,
+    "query": "The screen gives their social media handles.",
+    "predicted_windows": [],
+    "top_clips": [
+      {
+        "clip_id": 72,
+        "start": 144.0,
+        "end": 146.0,
+        "score": 0.03721106570886001
+      },
+      {
+        "clip_id": 74,
+        "start": 148.0,
+        "end": 150.0,
+        "score": 0.02790870584286455
+      },
+      {
+        "clip_id": 73,
+        "start": 146.0,
+        "end": 148.0,
+        "score": 0.026530398772025607
+      },
+      {
+        "clip_id": 69,
+        "start": 138.0,
+        "end": 140.0,
+        "score": 0.018988116321151376
+      },
+      {
+        "clip_id": 68,
+        "start": 136.0,
+        "end": 138.0,
+        "score": 0.018042187179732924
+      }
+    ],
+    "gt_windows": [
+      [
+        136,
+        150
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "missed_all",
+    "predicted_coverage": 0,
+    "gt_coverage": 14
+  },
+  {
+    "qid": 5926,
+    "vid": "r7A-cfBq2Xw_60.0_210.0",
+    "duration": 150.0,
+    "query": "Woman in parked car holds up a blue water bottle",
+    "predicted_windows": [
+      [
+        16.0,
+        18.0
+      ]
+    ],
+    "top_clips": [
+      {
+        "clip_id": 8,
+        "start": 16.0,
+        "end": 18.0,
+        "score": 0.5723957133242723
+      },
+      {
+        "clip_id": 4,
+        "start": 8.0,
+        "end": 10.0,
+        "score": 0.007948439337310417
+      },
+      {
+        "clip_id": 0,
+        "start": 0.0,
+        "end": 2.0,
+        "score": 0.0029371148478065747
+      },
+      {
+        "clip_id": 5,
+        "start": 10.0,
+        "end": 12.0,
+        "score": 1.621140036510203e-05
+      },
+      {
+        "clip_id": 17,
+        "start": 34.0,
+        "end": 36.0,
+        "score": 1.2522329748919564e-06
+      }
+    ],
+    "gt_windows": [
+      [
+        0,
+        14
+      ]
+    ],
+    "mean_best_iou": 0.0,
+    "error_category": "low_overlap",
+    "predicted_coverage": 2.0,
+    "gt_coverage": 14
+  }
+]

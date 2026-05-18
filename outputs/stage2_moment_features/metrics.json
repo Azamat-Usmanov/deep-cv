@@ -1,0 +1,14 @@
+{
+  "threshold": 0.15,
+  "clip_precision": 0.5166561114629512,
+  "clip_recall": 0.6743263349313936,
+  "clip_f1": 0.5850545037292024,
+  "clip_average_precision": 0.5640737180001725,
+  "segment_precision_iou_0_3": 0.16877637130801687,
+  "segment_recall_iou_0_3": 0.5522682445759369,
+  "segment_f1_iou_0_3": 0.2585410895660203,
+  "segment_precision_iou_0_5": 0.11874623267028331,
+  "segment_recall_iou_0_5": 0.388560157790927,
+  "segment_f1_iou_0_5": 0.18190212373037862,
+  "mean_best_iou": 0.4228134693713496
+}
